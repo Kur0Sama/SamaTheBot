@@ -1,0 +1,45 @@
+﻿{
+    "bot": {
+        "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "prefix": "sa:",
+        "game": "dominer kuro !",
+        "state": "dnd",
+        "invitelink": "https://discordapp.com/oauth2/authorize?client_id=374240860193161217&scope=bot&permissions=8"
+    },
+
+    "perms": {
+        "owner_id": "350710888812249101",
+        "owner_role": "♦ Perm - Fondateur ♦",
+        "admin_role": "♦ Perm - Administration ♦",
+        "mod_role": "♦ Perm - Modération ♦",
+        "mute_role": "♦ Mute ♦"
+    },
+
+    "logs": {
+        "channel": "logs-moderation"
+    },
+
+    "join": {
+        "member_role": "♦ Membre ♦",
+        "member_role_perm": "♦ Perm - Membre ♦"
+    },
+
+    "guilds": {
+        "samafamily": {
+            "id": "371930667425988611",
+            "general": "371947623143178240"
+        }
+    },
+
+    "rice": {
+        "startMoney": "20",
+        "globalStartMoney": "0",
+        "dailyMoney": "100",
+        "globalDailyMoney": "50"
+    },
+
+    "irc": {
+        "a": "374970259452461056",
+        "b": "374983535301492737"
+    }
+}

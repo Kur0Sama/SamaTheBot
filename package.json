@@ -1,0 +1,19 @@
+{
+  "name": "samathebot",
+  "version": "1.0.0",
+  "description": "Le bot privé de la bakafam'",
+  "main": "client.js",
+  "scripts": {
+    "test": "node client"
+  },
+  "author": "Kur0Sama",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "enmap": "^0.4.2",
+    "enmap-level": "^1.0.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.19.1",
+    "ms": "^2.0.0"
+  }
+}
